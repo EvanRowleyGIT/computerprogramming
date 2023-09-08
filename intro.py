@@ -1,10 +1,38 @@
-#greeting = input("Hello, possible pirate! What's the password?")
+#user_name = input('What is your name? ')
 
-#if greeting in ("Arrr!"):
+#haracter = {
+    "name": "Walt Disney"
+    "age": 63,
+    "isMale": True,
+    "fav_food_list":['cookies', 'hot dogs', 'pretzels', 'ice cream', 'hamburgers']
+#}
 
-	#print("Go away, pirate.")
-	
-#elif 0<5: print("Go away, pirate.") 
-#elif 0<3: print("true, but block will not execute") 
-#else: print("if all else fails")
-#print("Greetings, hater of pirates!")
+person = "Barrett"
+
+for i in range (10):
+    print(i)
+
+list = ['one', 'two', 'three']
+dictionary = {
+    'name': 'Barrett',
+    'age': 16
+}
+
+def is_even_number(number):
+    if number % 2 == 0:
+        print('This is an even number!')
+    else:
+        print('This is an odd number!')
+
+is_even_number(2)
+
+MAIN_CHARACTER = "Mario"
+
+main_character = "Luigi"
+
+myNameIsNot = "Bob"
+
+my_name = "Evan"
+
+MyName = "Bob"
+
