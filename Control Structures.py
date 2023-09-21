@@ -26,3 +26,30 @@
 # while i < 6:
 #     print("I'm still going")
 #     i += 1
+
+# phrase = input("What phrase would you like to encrypt? ")
+# shift = int(input)("How many letters would you like to shift? ")
+
+# alphabet = "abcdefghijklmnopqrstuvwxyz"
+# newAlpha = ''
+
+# def getShifted(shift):
+#     for i in range(len(alphabet)):
+#         offset = (i + shift) % len(alphabet)
+#         newAlpha = alphabet[offset]
+#         return newAlpha
+#     print("Here is your message: {result}")
+# def encode(input):
+#     result = ''
+#     for i in range (len(input)):
+#         index = alphabet.index
+
+# getShifted(shift)
+
+# encode(input)
+
+# for i in range(50):
+#     if i > 24:
+#         break
+#     else:
+#         print(i)
