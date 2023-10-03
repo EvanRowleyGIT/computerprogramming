@@ -43,11 +43,11 @@
 # print(count)
 
 # for loop to find the sum of numbers
-numbers = [12,3,56,67,89,90]
-sum = 0
+# numbers = [12,3,56,67,89,90]
+# sum = 0
 
-for i in numbers:
-    sum += numbers
-print(sum)
+# for i in numbers:
+#     sum += numbers
+# print(sum)
 
 
