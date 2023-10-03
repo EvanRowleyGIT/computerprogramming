@@ -53,14 +53,14 @@
 
 # Are you allowed to take the exam?
 
-ClassesHeld = int(input("So, how many classes have been held? "))
-ClassesAttended = int(input("And... how many of those classes have you actually gone to? "))
+# ClassesHeld = int(input("So, how many classes have been held? "))
+# ClassesAttended = int(input("And... how many of those classes have you actually gone to? "))
 
 
-if (ClassesAttended / ClassesHeld) >= 0.75:
-    print(f"Your attendance is {(ClassesAttended / ClassesHeld) * 100}%")
-    print("You may attend the exam, good luck...")
-else:
-    print(f"Your attendance is {(ClassesAttended / ClassesHeld) * 100}%")
-    print("you may not attend. Your presence is no longer needed. Your falure bring dishonor to you and your school")
+# if (ClassesAttended / ClassesHeld) >= 0.75:
+#     print(f"Your attendance is {(ClassesAttended / ClassesHeld) * 100}%")
+#     print("You may attend the exam, good luck...")
+# else:
+#     print(f"Your attendance is {(ClassesAttended / ClassesHeld) * 100}%")
+#     print("you may not attend. Your presence is no longer needed. Your falure bring dishonor to you and your school")
     
