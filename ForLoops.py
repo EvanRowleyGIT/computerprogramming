@@ -46,8 +46,46 @@
 # numbers = [12,3,56,67,89,90]
 # sum = 0
 
-# for i in numbers:
-#     sum += numbers
+# for num in numbers:
+#     sum += num
 # print(sum)
 
+# For loop to find the multiples of 5 in a list
+# numbers = [2,5,6,10,15,20,25]
 
+# numbers = [i for i in range(5, 30, 5)]
+# print(numbers)
+
+# For loop to copy elements from one list to another]
+# list1 = ['Mango','Banana','Orange']
+# list2 = []
+
+# list2 = list1[slice(len(list1))]
+# print("Original", list1)
+# print("Cloned", list2)
+
+# For loop to find the maximum element in a list
+# numbers = [1,4,50,80,12]
+# max = 0
+
+# for i in numbers:
+#     if i>max:
+#         max = i
+# print(max)
+
+# For loop to find the minimum element in a list
+# numbers = [1,4,50,80,12]
+# min = 1000
+
+# for i in numbers:
+#     if i<min:
+#         min = i
+# print(min)
+
+# For loop to sort the numbers in a list in ascending order (least to greatest)
+# numbers = [1,4,50,80,12]
+
+# numbers . sort()
+# print(numbers)
+
+# For loop to print the multiples of 3 using range() function
