@@ -23,3 +23,5 @@ computer_programming_team = {
         "duties": ["manage", "mediate", "advocate"]
     }
 }
+
+print(f"Thank you {name}, for attending this interview. I want to recap what we went over. Does this sound correct?")

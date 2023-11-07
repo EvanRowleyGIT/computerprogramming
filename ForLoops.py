@@ -57,12 +57,12 @@
 # print(numbers)
 
 # For loop to copy elements from one list to another]
-# list1 = ['Mango','Banana','Orange']
-# list2 = []
+list1 = ['Mango','Banana','Orange']
+list2 = []
 
-# list2 = list1[slice(len(list1))]
-# print("Original", list1)
-# print("Cloned", list2)
+list2 = list1[slice(len(list1))]
+print("Original", list1)
+print("Cloned", list2)
 
 # For loop to find the maximum element in a list
 # numbers = [1,4,50,80,12]
