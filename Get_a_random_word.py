@@ -6,4 +6,3 @@ with open("sowpods.txt", "r") as file:
 
 	print(random.choice(words)) 
 
-
