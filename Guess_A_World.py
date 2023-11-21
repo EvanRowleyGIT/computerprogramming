@@ -4,7 +4,7 @@ win = False
 while win == False:
     loopword = ""
     print(">>> Welcome to Hangman!")
-    print("Here is your original line!")
+    print(">>> Here is your original line!")
     print(guesses)
     guess = input(print(">>> Guess a letter!"))
     if len(guess) > 1:
@@ -18,7 +18,7 @@ while win == False:
             else: loopword = loopword + "_ "
     guesses = loopword
     print(guesses)
-    print(">>> Great job!")
+    print(">>> Good Guess!")
     print(">>> Here is your line now")
     print(">>> If you are finished with the word, type it all in and if its right you WIN!!")
     
